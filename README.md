@@ -1,3 +1,3 @@
-# Udacity | Google India Scholarship - Project Challenge 1
+# Udemy | Angular
 
-Demo: https://sunnypuri.github.io/portfolio/
+Demo: https://rajneesha.github.io/info/
