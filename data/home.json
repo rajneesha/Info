@@ -2,50 +2,37 @@
     {
         "postHeadingLeft" : "",
         "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/Google-Scholarship-India-Badge.png' alt='Udacity | Google India Scholarship'>",
+        "postBody" : "<img class='img-responsive' src='img/aspangular.jpg' alt='Udemy | aspangular'>",
         "postFooterLeft" : "",
-        "postFooterRight" : "Udacity | Google India Scholarship"
+        "postFooterRight" : "Asp.net Core And Angular 4"
     },
     {
         "postHeadingLeft" : "",
         "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/insta-two.png' alt='INSTA Award'>",
+        "postBody" : "<img class='img-responsive' src='img/Xamrin.jpg' alt='Xamrin c#'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Cross Platform App With C#"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/SqlServerCertificate.jpg' alt='Sql Server Certificate'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Sql Server Certificate"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/PythonProgramming.jpg' alt='Python Programming'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Python Programming"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/InstaAw1.png' alt='INSTA Award'>",
         "postFooterLeft" : "",
         "postFooterRight" : "INSTA Award"
-    },
-    {
-        "postHeadingLeft" : "",
-        "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/special-incentive.PNG' alt='Special Incentive Award'>",
-        "postFooterLeft" : "",
-        "postFooterRight" : "Special Incentive Award"
-    },
-    {
-        "postHeadingLeft" : "",
-        "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/insta-one.png' alt='INSTA Award'>",
-        "postFooterLeft" : "",
-        "postFooterRight" : "INSTA Award"
-    },
-    {
-        "postHeadingLeft" : "",
-        "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/xpo.png' alt='Won XPO Logistics Hackathon'>",
-        "postFooterLeft" : "",
-        "postFooterRight" : "Won XPO Logistics Hackathon"
-    },
-    {
-        "postHeadingLeft" : "",
-        "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/dashboard.png' alt='Won Dashboard Hackathon'>",
-        "postFooterLeft" : "",
-        "postFooterRight" : "Won Dashboard Hackathon"
-    },
-    {
-        "postHeadingLeft" : "",
-        "postHeadingRight" : "",
-        "postBody" : "<img class='img-responsive' src='img/hackathon-1.png' alt='Won Dashboard Hackathon'><img class='img-responsive' src='img/hackathon-2.png' alt='Won Dashboard Hackathon'>",
-        "postFooterLeft" : "",
-        "postFooterRight" : "INFOSYS"
     }
+     
 ]
